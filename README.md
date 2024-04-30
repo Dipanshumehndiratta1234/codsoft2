@@ -1,2 +1,2 @@
-# codsoft2
-new repo
+# CODSOFT
+LANDING PAGE
